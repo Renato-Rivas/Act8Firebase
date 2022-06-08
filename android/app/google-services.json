@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "725144719346",
+    "project_id": "act8-8ec54",
+    "storage_bucket": "act8-8ec54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725144719346:android:efe0a06e8199241214a56b",
+        "android_client_info": {
+          "package_name": "com.mycompany.act8firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725144719346-3vhiq7n7c561fep09fdk8no0vebns47e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJUMgaGENZFGdgvmCg4Xw_VpHtorbquO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725144719346-3vhiq7n7c561fep09fdk8no0vebns47e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725144719346-m6lvk0nas2egk1q2gk7iegaofgjcjr83.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.act8firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
